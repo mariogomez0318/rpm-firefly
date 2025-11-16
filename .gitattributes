@@ -1,3 +1,0 @@
-*.c     linguist-detectable=true
-*.h     linguist-detectable=true
-Makefile linguist-detectable=false
